@@ -61,11 +61,6 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
-# Haven specific
-haven.db
-test_haven.db
-*.db
-
 # Flask stuff:
 instance/
 .webassets-cache
