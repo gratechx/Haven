@@ -3,7 +3,7 @@ from typing import List, Dict, Optional
 from enum import Enum
 import openai
 import anthropic
-from .config import settings
+from ..config import settings
 
 
 class AIProvider(Enum):
